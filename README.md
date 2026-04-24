@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Ashish 👋
+
+Backend Engineer focused on building scalable systems using:
+- Java, Spring Boot
+- Microservices & Kafka
+- Distributed Systems
+
+🔧 Featured Projects:
+- Event-Driven Ticket Booking System (Kafka, Microservices)
+- Library Management System (Spring Boot, AWS)
+
+📈 Solved 300+ DSA problems
