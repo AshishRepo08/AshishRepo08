@@ -24,4 +24,4 @@ Backend Engineer focused on building scalable systems using:
 - Event-Driven Ticket Booking System (Kafka, Microservices)
 - Library Management System (Spring Boot, AWS)
 
-📈 Solved 300+ DSA problems
+📈 Solved 370+ DSA problems
