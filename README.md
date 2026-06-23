@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshishRepo08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="AshishRepo08" /> </p>
 <!--
 **AshishRepo08/AshishRepo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
