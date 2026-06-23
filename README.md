@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshishRepo08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="AshishRepo08" /> </p>
 <!--
 **AshishRepo08/AshishRepo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +15,11 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Ashish 👋
 
-Backend Engineer focused on building scalable systems using:
-- Java, Spring Boot
-- Microservices & Kafka
-- Distributed Systems
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshishRepo08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="AshishRepo08" /> </p>
+
+I am a Backend Engineer focused on building scalable systems using:
+- Java, Spring Boot, Spring Cloud
+- Cloud Platforms - AWS (Certified Cloud Practitioner)
 
 🔧 Featured Projects:
 - Event-Driven Ticket Booking System (Kafka, Microservices)
