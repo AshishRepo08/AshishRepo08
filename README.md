@@ -1,40 +1,55 @@
-<!--
-**AshishRepo08/AshishRepo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ashish 👋
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshishRepo08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Building+clean+and+scalable+backend+systems" alt="Typing SVG" />
+</p>
 
-## Hi, I'm Ashish 👋
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AshishRepo08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="AshishRepo08" /> </p>
+## 👨‍💻 About Me
 
-I am a Backend Engineer focused on building scalable systems using:
-- Java, Spring Boot, Spring Cloud
-- Cloud Platforms - AWS (Certified Cloud Practitioner)
+* 🔭 Currently building backend projects with **Java, Spring Boot, Microservices, Kafka, and AWS**
+* 🌱 Learning more about **System Design, Cloud Deployment, and Production-Ready Backend Engineering**
+* 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, Kafka, and DSA**
+* 🎯 Goal: To grow as a **Backend Software Engineer**
 
-🔧 Featured Projects:
-- FIFA World Cup Ticketing Platform
-- Event-Driven Ticket Booking System (Kafka, Microservices)
-- Library Management System (Spring Boot, AWS)
+---
 
-  Tech Stack:
-  Languages: Java (17/21), SQL
-  Backend: Spring Boot, JPA/Hibernate, Spring Security, Spring Cloud, Microservices, REST APIs
-  Messaging: Apache Kafka, Event-Driven Architecture
-  Databases: PostgreSQL, MySQL, MongoDB, Redis (Caching)
-  DevOps & Tools: Docker, Kubernetes, Git, Maven, Postman, Linux/Unix, AWS (EC2, S3, IAM, RDS, ECS, ECR, Elastic Beanstalk)
-  Testing: JUnit, Mockito, Integration Testing
-  Concepts: OOPS, Multithreading, Design Patterns, Data Structures & Algorithms (400+ LeetCode Problems), System
-  Integration, Agile/Scrum
+## 🛠️ Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,aws,git,github,postman,linux" />
+</p>
 
-📈 Solved 400+ DSA problems
+---
+
+## 🚀 Featured Projects
+
+### 🎟️ FIFA World Cup Ticketing Platform
+
+Microservices-based ticket booking platform with order, inventory, notification, gateway, and discovery services.
+
+### 📩 Event-Driven Ticket Booking System
+
+Kafka-based backend system where services communicate asynchronously through order events.
+
+### 📚 Library Management System
+
+Spring Boot REST API project with CRUD operations, JPA/Hibernate, validation, and database integration.
+
+---
+
+## 📈 Coding & Problem Solving
+
+* Solved **400+ DSA problems**
+* Practicing Java-based problem solving on LeetCode
+* Focus areas: **Arrays, Strings, Trees, Graphs, DP, Binary Search, Sliding Window**
+---
+
+<p align="center">
+  <b>Building backend systems one commit at a time 🚀</b>
+</p>
