@@ -22,7 +22,19 @@ I am a Backend Engineer focused on building scalable systems using:
 - Cloud Platforms - AWS (Certified Cloud Practitioner)
 
 🔧 Featured Projects:
+- FIFA World Cup Ticketing Platform
 - Event-Driven Ticket Booking System (Kafka, Microservices)
 - Library Management System (Spring Boot, AWS)
+
+  Tech Stack:
+  Languages: Java (17/21), SQL
+  Backend: Spring Boot, JPA/Hibernate, Spring Security, Spring Cloud, Microservices, REST APIs
+  Messaging: Apache Kafka, Event-Driven Architecture
+  Databases: PostgreSQL, MySQL, MongoDB, Redis (Caching)
+  DevOps & Tools: Docker, Kubernetes, Git, Maven, Postman, Linux/Unix, AWS (EC2, S3, IAM, RDS, ECS, ECR, Elastic Beanstalk)
+  Testing: JUnit, Mockito, Integration Testing
+  Concepts: OOPS, Multithreading, Design Patterns, Data Structures & Algorithms (400+ LeetCode Problems), System
+  Integration, Agile/Scrum
+
 
 📈 Solved 400+ DSA problems
